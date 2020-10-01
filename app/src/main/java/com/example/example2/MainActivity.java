@@ -27,7 +27,7 @@ private EditText edtPass;
         String name = edtName.getText().toString();
         String password = edtPass.getText().toString();
         String msg = "name"+name +"password"+password;
-
+//rewrrrrrrrrrrrrrrrrrrrrrrrr
         Toast.makeText(this ,msg, LENGTH_SHORT).show();
     }
 }
